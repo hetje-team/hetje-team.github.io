@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 6,
-  "latest_version_name": "1.1.1",
+  "latest_version_code": 7,
+  "latest_version_name": "1.1.2",
   "force": true,
   "title": "새 버전으로 바꿔 주세요",
-  "message": "배경 깜빡임을 고치고 발굽 소리를 바꿨어요. 테스트를 이어가려면 새 버전이 필요해요.",
+  "message": "새 버전이 나왔어요. 테스트를 이어가려면 업데이트가 필요해요.",
   "title_en": "Update required",
-  "message_en": "fixed the blinking props and gave the hooves a new sound. please update to keep testing."
+  "message_en": "a new build is out. please update to keep testing."
 }
