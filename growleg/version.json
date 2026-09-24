@@ -6,6 +6,6 @@
   "message": "새 버전이 나왔어요. 테스트를 이어가려면 업데이트가 필요해요.",
   "title_en": "Update required",
   "message_en": "a new build is out. please update to keep testing.",
-  "latest_version_code_ios": 9,
+  "latest_version_code_ios": 10,
   "store_ios": "https://apps.apple.com/app/id6814062068"
 }
