@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 10,
-  "latest_version_name": "1.1.4",
+  "latest_version_code": 11,
+  "latest_version_name": "1.1.5",
   "force": true,
   "title": "새 버전으로 바꿔 주세요",
   "message": "새 버전이 나왔어요. 테스트를 이어가려면 업데이트가 필요해요.",
