@@ -2,10 +2,10 @@
   "latest_version_code": 13,
   "latest_version_name": "1.2.0",
   "force": true,
-  "title": "새 버전으로 바꿔 주세요",
-  "message": "새 버전이 나왔어요. 테스트를 이어가려면 업데이트가 필요해요.",
-  "title_en": "Update required",
-  "message_en": "a new build is out. please update to keep testing.",
+  "title": "새 버전이 나왔어요",
+  "message": "기린이 더 억울해졌어요. 업데이트하고 이어서 해 주세요.",
+  "title_en": "Update available",
+  "message_en": "the giraffe got even more innocent. please update to keep playing.",
   "latest_version_code_ios": 13,
   "store_ios": "https://apps.apple.com/app/id6814062068"
 }
