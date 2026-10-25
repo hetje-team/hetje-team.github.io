@@ -12,10 +12,7 @@
   "cont_max_m": 200,
   "cont_best_k": 0.5,
   "rocket_steps": [
-    10,
-    20,
-    40,
-    60
+    10
   ],
-  "rocket_steps_tail": 20
+  "rocket_steps_tail": 10
 }
