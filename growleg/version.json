@@ -10,7 +10,7 @@
   "store_ios": "https://apps.apple.com/app/id6814062068",
   "ads": true,
   "cont_max_m": 200,
-  "cont_best_k": 0.5,
+  "cont_best_k": 0,
   "rocket_steps": [
     10
   ],
