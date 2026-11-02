@@ -1,12 +1,12 @@
 {
-  "latest_version_code": 27,
-  "latest_version_name": "1.6.0",
-  "force": true,
-  "title": "기린이 로켓을 달았어요",
-  "message": "걷다 보면 받는 로켓으로 키를 확 키워 보세요. 15초 참으면 무지개 2단! 업데이트하고 이어서 해 주세요.",
-  "title_en": "The giraffe got a rocket",
-  "message_en": "walk to earn a rocket and shoot up. hold it 15 seconds for the rainbow tier 2. please update to keep playing.",
-  "latest_version_code_ios": 27,
+  "latest_version_code": 28,
+  "latest_version_name": "1.7.0",
+  "force": false,
+  "title": "기린이 추월을 배웠어요",
+  "message": "최고 기록을 넘으면 앞기린을 하나씩 추월해요. 1등이 되면 왕관, 1등을 가져올 때마다 상장이 늘어요. 업데이트하고 이어서 해 주세요.",
+  "title_en": "The giraffe learned to pass",
+  "message_en": "beat your best and pass other giraffes one by one. take #1 for a crown, and a new award every time you take it. please update to keep playing.",
+  "latest_version_code_ios": 28,
   "store_ios": "https://apps.apple.com/app/id6814062068",
   "ads": true,
   "cont_max_m": 200,
@@ -14,5 +14,7 @@
   "rocket_steps": [
     10
   ],
-  "rocket_steps_tail": 10
+  "rocket_steps_tail": 10,
+  "title_ja": "キリンが追い抜きを覚えました",
+  "message_ja": "自己ベストを超えると、前のキリンを次々と抜いていきます。1位で王冠、1位を奪うたびに賞状がふえます。アップデートして続きをどうぞ。"
 }
